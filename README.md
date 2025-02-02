@@ -41,7 +41,5 @@ The program generates a weekly schedule and displays it in a readable table form
 - Tria Sania Oktavia
 - Ghaisan Zaki Pratama
 
-## License
-This project is licensed under the MIT License.
 
 
